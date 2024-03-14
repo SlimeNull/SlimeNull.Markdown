@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlimeNull.Markdown", "SlimeNull.Markdown\SlimeNull.Markdown.csproj", "{DF7C5D87-12D4-435B-A652-797AAEA18EBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMarkdown", "WpfMarkdown\WpfMarkdown.csproj", "{DDEC8774-C468-410F-9827-33ED285D3F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF7C5D87-12D4-435B-A652-797AAEA18EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7C5D87-12D4-435B-A652-797AAEA18EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7C5D87-12D4-435B-A652-797AAEA18EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7C5D87-12D4-435B-A652-797AAEA18EBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDEC8774-C468-410F-9827-33ED285D3F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDEC8774-C468-410F-9827-33ED285D3F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDEC8774-C468-410F-9827-33ED285D3F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDEC8774-C468-410F-9827-33ED285D3F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5915E9D7-3A66-4FB9-B9BB-B4340493C748}
+	EndGlobalSection
+EndGlobal
